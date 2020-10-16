@@ -1,0 +1,12 @@
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\bin\Debug\netcoreapp3.1\GrupoSYM.Domain.deps.json
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\bin\Debug\netcoreapp3.1\GrupoSYM.Domain.dll
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\bin\Debug\netcoreapp3.1\GrupoSYM.Domain.pdb
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\obj\Debug\netcoreapp3.1\GrupoSYM.Domain.csprojAssemblyReference.cache
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\obj\Debug\netcoreapp3.1\GrupoSYM.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\obj\Debug\netcoreapp3.1\GrupoSYM.Domain.AssemblyInfo.cs
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\obj\Debug\netcoreapp3.1\GrupoSYM.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\obj\Debug\netcoreapp3.1\GrupoSYM.Domain.dll
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\obj\Debug\netcoreapp3.1\GrupoSYM.Domain.pdb
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\bin\Debug\netcoreapp3.1\GrupoSYM.Repository.dll
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\bin\Debug\netcoreapp3.1\GrupoSYM.Repository.pdb
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Domain\obj\Debug\netcoreapp3.1\GrupoSYM.Domain.csproj.CopyComplete

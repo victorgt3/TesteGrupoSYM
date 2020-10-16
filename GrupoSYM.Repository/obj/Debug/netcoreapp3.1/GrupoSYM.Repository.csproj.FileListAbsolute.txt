@@ -1,0 +1,12 @@
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\obj\Debug\netcoreapp3.1\GrupoSYM.Repository.csprojAssemblyReference.cache
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\obj\Debug\netcoreapp3.1\GrupoSYM.Repository.AssemblyInfoInputs.cache
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\obj\Debug\netcoreapp3.1\GrupoSYM.Repository.AssemblyInfo.cs
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\obj\Debug\netcoreapp3.1\GrupoSYM.Repository.csproj.CoreCompileInputs.cache
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\bin\Debug\netcoreapp3.1\GrupoSYM.Repository.deps.json
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\bin\Debug\netcoreapp3.1\GrupoSYM.Repository.runtimeconfig.json
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\bin\Debug\netcoreapp3.1\GrupoSYM.Repository.runtimeconfig.dev.json
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\bin\Debug\netcoreapp3.1\GrupoSYM.Repository.dll
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\bin\Debug\netcoreapp3.1\GrupoSYM.Repository.pdb
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\obj\Debug\netcoreapp3.1\GrupoSYM.Repository.dll
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\obj\Debug\netcoreapp3.1\GrupoSYM.Repository.pdb
+C:\Projetos\Teste\GrupoSYM\GrupoSYM.Repository\obj\Debug\netcoreapp3.1\GrupoSYM.Repository.genruntimeconfig.cache
